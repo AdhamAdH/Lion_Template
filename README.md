@@ -1,4 +1,4 @@
-# Lion_Template (Leon PSD From Graphberry) 
-My First HTML &amp; CSS Design 
+# Lion_Template
+My First HTML &amp; CSS Design (Leon PSD From Graphberry) 
 Link For Full Page:
 https://adhamadh.github.io/Lion_Template/
